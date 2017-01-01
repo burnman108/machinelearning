@@ -8,6 +8,7 @@
 ### 结构
 > + train2_1.py: 感知机学习算法的原始形式
 + train2_2.py: 感知机学习算法的对偶形式，对偶是指将w和b表示为测试数据i的线性组合形式，通过求解系数得到w和b
+
 ### 需要模块
 > matplotlib, numpy
 
@@ -43,6 +44,7 @@
 + logisticRegression.py: 逻辑斯谛回归模型
 + logisticRegressionGif.py: 边界线形成的动态图
 + logistic_img.py: Sigmoid函数图像
+
 ### 需要模块
 > numpy,matplotlib
 
@@ -53,6 +55,7 @@
 ### 结构
 > + bpnn.py: 前向与后向神经网络传播模型
 + code_recognizer.py: IBM利用Neil Schemenauer的这一模块（旧版）做了一个识别代码语言的例子，我只是稍稍理解了一下
+
 ### 需要模块
 > numpy
 
@@ -65,6 +68,7 @@
 + kernel_test.py: 
 + svmMLiA.py:
 + test.py:
+
 ### 需要模块
 > numpy,matplotlib
 
@@ -75,6 +79,7 @@
 ### 结构
 > + regTrees.py: 
 + test.py: 
+
 ### 需要模块
 > numpy
 
@@ -86,6 +91,7 @@
 > + 7.6test.py: 
 + adaboost.py: 
 + boost.py: 
+
 ### 需要模块
 > numpy
 
@@ -95,5 +101,6 @@
 > python 3.5
 ### 结构
 > + regression.py: 
+
 ### 需要模块
 > numpy
